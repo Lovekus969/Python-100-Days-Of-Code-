@@ -1,0 +1,1 @@
+Here we will see some concepts of Python language 
