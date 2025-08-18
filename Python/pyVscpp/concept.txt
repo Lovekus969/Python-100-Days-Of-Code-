@@ -7,3 +7,11 @@ Python vs C++ – Theory (Typed & Structured)
      C++: Statically typed
 
           Every variable must have a declared type.
+
+Memory Management
+
+               Python: Automatic (garbage collected)                       C++: Manual or semi-automatic
+               No need to manually allocate or free memory.                  Use new/delete for dynamic memory.
+                                                                                Stack memory is automatic.
+
+
