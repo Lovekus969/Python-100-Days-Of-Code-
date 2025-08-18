@@ -15,3 +15,9 @@ Memory Management
                                                                                 Stack memory is automatic.
 
 
+Performance
+
+               Python: Slower, interpreted
+               C++: Faster, compiled
+               Use C++ for performance-critical applications.
+               Use Python for quick development / scripts / AI / web.
