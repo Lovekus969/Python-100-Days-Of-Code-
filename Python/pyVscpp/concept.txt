@@ -4,3 +4,6 @@ Python vs C++ – Theory (Typed & Structured)
           Python: Dynamically typed
           Variables don’t need a type declaration.
           Type is determined at runtime.
+     C++: Statically typed
+
+          Every variable must have a declared type.
