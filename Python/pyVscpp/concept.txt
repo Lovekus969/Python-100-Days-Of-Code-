@@ -1,1 +1,6 @@
 Python vs C++ – Theory (Typed & Structured)
+     Type System
+
+          Python: Dynamically typed
+          Variables don’t need a type declaration.
+          Type is determined at runtime.
