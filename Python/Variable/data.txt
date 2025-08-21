@@ -1,0 +1,5 @@
+Variables in Python
+
+No need to declare type (dynamic typing).
+
+Just assign with =.
