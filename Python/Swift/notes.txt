@@ -1,0 +1,1 @@
+Swift is Apple’s programming language (used for iOS apps, macOS apps, watchOS, tvOS). Think of it as what Java is to Android → Swift is to iPhone.
