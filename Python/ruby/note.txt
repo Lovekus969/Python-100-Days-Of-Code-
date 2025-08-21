@@ -1,0 +1,9 @@
+🔹 What is Ruby?
+
+High-level, dynamic, interpreted language (like Python).
+
+Famous for Ruby on Rails (a web framework for building full-stack apps).
+
+Focuses on developer happiness → very clean & human-readable syntax.
+
+Often compared to Python because of its simplicity.
