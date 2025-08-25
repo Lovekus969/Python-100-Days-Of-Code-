@@ -32,3 +32,8 @@ if is_student:
     print("You are yes a studetnt")
 else:
     print("you are not a student")
+    sale = False
+if sale:
+    print("sale is here ")
+else:
+    print("Not for sale ")
