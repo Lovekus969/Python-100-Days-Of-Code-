@@ -24,3 +24,11 @@ distance = 5.5
 print( f"value of pii is { pii}")
 print(f"your gpa is {gpa}")
 print(f" you ran {distance} kms")
+#boolean
+
+is_student = True
+
+if is_student:
+    print("You are yes a studetnt")
+else:
+    print("you are not a student")
