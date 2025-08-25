@@ -26,7 +26,7 @@ print(f"your gpa is {gpa}")
 print(f" you ran {distance} kms")
 #boolean
 
-is_student = True
+is_student = False            #update to False 
 
 if is_student:
     print("You are yes a studetnt")
