@@ -16,9 +16,8 @@ It stands for floating-point number.
 ##  What is a Boolean?
 
 A Boolean (bool) is a data type that can only have two values:
+  Think of it like a switch (ON / OFF) or yes / no.
 
-True
-
-False
-
-Think of it like a switch (ON / OFF) or yes / no.
+q  What does type() do?
+    
+    It tells you the data type of a variable or value.
