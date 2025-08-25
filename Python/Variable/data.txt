@@ -8,8 +8,17 @@ In Python, you don’t need to declare the type explicitly — it figures it out
 ## int 
 
 number = 23
-🔹 What is a float in Python?
+##  What is a float in Python?
 
 A float is a number with a decimal point.
 
 It stands for floating-point number.
+##  What is a Boolean?
+
+A Boolean (bool) is a data type that can only have two values:
+
+True
+
+False
+
+Think of it like a switch (ON / OFF) or yes / no.
