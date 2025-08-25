@@ -17,7 +17,10 @@ print(f"you are buying {quanity} items fromt his warehouse")
 print(f" students count is {student} in this university ")
 
 #float
-
+gpa =3.2
 pii = 3.14 
+distance = 5.5
 
 print( f"value of pii is { pii}")
+print(f"your gpa is {gpa}")
+print(f" you ran {distance} kms")
