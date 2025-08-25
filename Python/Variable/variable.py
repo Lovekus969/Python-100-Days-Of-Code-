@@ -37,3 +37,7 @@ if sale:
     print("sale is here ")
 else:
     print("Not for sale ")
+
+  print(type(is_student))
+    print(type(gpa))
+    print(type(pii))
