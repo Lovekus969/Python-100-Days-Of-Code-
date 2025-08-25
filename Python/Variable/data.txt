@@ -1,5 +1,4 @@
-Variables in Python
+What is a Variable?
 
-No need to declare type (dynamic typing).
-
-Just assign with =.
+A variable is like a container used to store data in memory.
+In Python, you don’t need to declare the type explicitly — it figures it out automatically (dynamic typing).
