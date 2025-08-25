@@ -1,1 +1,6 @@
 Here we will see some concepts of Python language 
+🔹 What is a float in Python?
+
+A float is a number with a decimal point.
+
+It stands for floating-point number.
