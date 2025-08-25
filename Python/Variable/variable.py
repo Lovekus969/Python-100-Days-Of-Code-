@@ -16,3 +16,8 @@ print( f"you are {age} years old")
 print(f"you are buying {quanity} items fromt his warehouse")
 print(f" students count is {student} in this university ")
 
+#float
+
+pii = 3.14 
+
+print( f"value of pii is { pii}")
