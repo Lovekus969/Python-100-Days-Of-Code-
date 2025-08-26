@@ -2,3 +2,10 @@ Loops in Python
 
 Loops are used when we want to repeat a block of code multiple times.
 Python has two main types of loops:
+
+1. For Loop => Used when we know how many times we want to run the loop.
+
+Example 1 – Simple for loop
+
+                                  for i in range(5):
+                                      print("Hello, Beeba Boys!", i)
