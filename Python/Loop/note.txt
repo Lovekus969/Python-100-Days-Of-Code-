@@ -27,3 +27,4 @@ If divisible by 5 → print "Buzz"
 
 If divisible by both → print "FizzBuzz"
 
+Q : => solve a problem which says count the total until n numbers 
