@@ -8,3 +8,4 @@ Quick Strategy for 100 Days of Code:
     Day 41–60: Algorithms (sorting, searching, DP basics) + small coding challenges.
     Day 61–80: Mini-projects (calculator, todo app, mini-game, file handling).
     Day 81–100: Bigger project (barber shop app, wedding planner in Python, or automation scripts) + LeetCode medium/hard problems.
+hm
