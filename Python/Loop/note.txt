@@ -18,3 +18,12 @@ Example 1 – Basic while loop
                                     while count <= 5:
                                         print("Customer number:", count)
                                         count += 1
+
+Print numbers from 1 to 100.
+
+If divisible by 3 → print "Fizz"
+
+If divisible by 5 → print "Buzz"
+
+If divisible by both → print "FizzBuzz"
+
