@@ -1,0 +1,8 @@
+Logical Operators in Python
+Python has three main logical operators:
+                            
+                            and → returns True if both conditions are True
+                            
+                            or → returns True if at least one condition is True
+                            
+                            not → returns True if the condition is False (reverses the result)
