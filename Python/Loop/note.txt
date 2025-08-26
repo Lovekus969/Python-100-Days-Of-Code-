@@ -9,3 +9,12 @@ Example 1 – Simple for loop
 
                                   for i in range(5):
                                       print("Hello, Beeba Boys!", i)
+
+2. While Loop=>  Used when we don’t know how many times to run, but we know the condition.
+
+Example 1 – Basic while loop
+
+                                    count = 1
+                                    while count <= 5:
+                                        print("Customer number:", count)
+                                        count += 1
