@@ -1,0 +1,4 @@
+Loops in Python
+
+Loops are used when we want to repeat a block of code multiple times.
+Python has two main types of loops:
