@@ -4,3 +4,10 @@ Here we will see some concepts of Python language
 A float is a number with a decimal point.
 
 It stands for floating-point number.
+
+we will see how conversions done here 
+fahrenheit = float(input("Enter temperature in Fahrenheit: "))
+
+celsius = (fahrenheit - 32) * 5/9
+
+print(f"{fahrenheit}°F is equal to {celsius:.2f}°C")
