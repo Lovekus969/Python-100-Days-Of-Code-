@@ -28,3 +28,10 @@ If divisible by 5 → print "Buzz"
 If divisible by both → print "FizzBuzz"
 
 Q : => solve a problem which says count the total until n numbers 
+
+
+What is a Nested Loop?
+
+A nested loop is a loop inside another loop.
+
+The outer loop runs first, and for each iteration of the outer loop, the inner loop runs completely.
