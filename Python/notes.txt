@@ -8,3 +8,4 @@ Python Collections
                 Dynamic size (you can add/remove items anytime).
                 Can store mixed data types in one collection.
                 Different types available (list, tuple, set, dict).
+“Python collections are like arrays in Java, but more powerful because they can grow dynamically and hold different types of data.”
