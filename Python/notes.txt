@@ -2,3 +2,9 @@ What is a Collection in Python?
 
 A collection is a container that is used to store multiple items (values, objects) in a single variable.
 Instead of storing one item at a time, collections let you group data together.
+
+Python Collections
+
+                Dynamic size (you can add/remove items anytime).
+                Can store mixed data types in one collection.
+                Different types available (list, tuple, set, dict).
