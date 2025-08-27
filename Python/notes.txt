@@ -1,13 +1,4 @@
-Here we will see some concepts of Python language 
-🔹 What is a float in Python?
+What is a Collection in Python?
 
-A float is a number with a decimal point.
-
-It stands for floating-point number.
-
-we will see how conversions done here 
-fahrenheit = float(input("Enter temperature in Fahrenheit: "))
-
-celsius = (fahrenheit - 32) * 5/9
-
-print(f"{fahrenheit}°F is equal to {celsius:.2f}°C")
+A collection is a container that is used to store multiple items (values, objects) in a single variable.
+Instead of storing one item at a time, collections let you group data together.
