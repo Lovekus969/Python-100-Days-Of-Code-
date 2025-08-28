@@ -1,3 +1,5 @@
+Variables
+Variables are containers for storing data values.
 Creating Variables
 Python has no command for declaring a variable.
 
