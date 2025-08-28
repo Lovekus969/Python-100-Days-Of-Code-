@@ -30,3 +30,7 @@ Performance
 Tuples are slightly faster than lists because they are immutable.
 
 If you don’t need to change the data, using a tuple is better.
+
+Basic Concept
+      Set	A collection of unique elements, unordered.
+      Dict	A collection of key-value pairs, unordered (keys are unique).
