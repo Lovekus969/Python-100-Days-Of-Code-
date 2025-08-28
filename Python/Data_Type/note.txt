@@ -40,3 +40,11 @@ Basic Concept
 None is a special constant in Python that represents the absence of a value or nothing.
 
 It’s like saying: “There is nothing here” or “No value assigned.”
+
+2.Type of None
+x = None
+print(type(x))  # <class 'NoneType'>
+
+
+So NoneType is the type of None.
+Only one value exists of this type: None itself.
