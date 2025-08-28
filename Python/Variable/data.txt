@@ -19,6 +19,8 @@ Rules for Python variables:
           A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
           Variable names are case-sensitive (age, Age and AGE are three different variables)
           A variable name cannot be any of the Python keywords.
+Global Variables
+Variables that are created outside of a function (as in all of the examples in the previous pages) are known as global variables. Global variables can be used by everyone, both inside of functions and outside.
 
 ##Strign we use double quote " Everyrhing inside is string " 
 
