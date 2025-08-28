@@ -34,3 +34,9 @@ If you don’t need to change the data, using a tuple is better.
 Basic Concept
       Set	A collection of unique elements, unordered.
       Dict	A collection of key-value pairs, unordered (keys are unique).
+
+1. What is None?
+
+None is a special constant in Python that represents the absence of a value or nothing.
+
+It’s like saying: “There is nothing here” or “No value assigned.”
