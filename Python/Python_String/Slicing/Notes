@@ -1,0 +1,3 @@
+String slicing is the process of extracting a substring from a given string using index positions, defined by the syntax:
+
+string[start:end:step]
