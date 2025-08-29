@@ -19,3 +19,10 @@ Space Complexity: O(n)
 
 Time Complexity: O(n + width)
 Space Complexity: O(width)
+
+4.count(substring, start=0, end=len(string))
+
+            Definition:=>> Returns the number of non-overlapping occurrences of substring in the string. Can specify start and end.
+
+Time Complexity: O(n*m) in worst case (n = string length, m = substring length)
+Space Complexity: O(1)
