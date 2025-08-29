@@ -26,3 +26,9 @@ Space Complexity: O(width)
 
 Time Complexity: O(n*m) in worst case (n = string length, m = substring length)
 Space Complexity: O(1)
+
+5.encode(encoding='utf-8', errors='strict')
+            Definition:=>> Returns an encoded version of the string as a bytes object using the specified encoding (default: 'utf-8').
+
+Time Complexity: O(n) — must process each character
+Space Complexity: O(n) — creates a new bytes object
