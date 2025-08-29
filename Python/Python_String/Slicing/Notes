@@ -1,3 +1,8 @@
 String slicing is the process of extracting a substring from a given string using index positions, defined by the syntax:
 
 string[start:end:step]
+
+Time & Space Complexity: =>>
+
+        Time Complexity: O(k), where k is the length of the slice (because Python iterates through the required characters).
+        Space Complexity: O(k), since a new substring is created.
