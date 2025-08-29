@@ -1,2 +1,10 @@
 F-Strings (f"") are the modern, preferred way to format strings in Python (since version 3.6).
 They let you directly embed variables, expressions, and even function calls inside {} without needing +, .format(), or %.
+
+
+in Python f-strings, placeholders {} can contain:
+
+                                              Variables
+                                              Expressions / operations
+                                              Function calls
+                                              Format specifiers (modifiers)
