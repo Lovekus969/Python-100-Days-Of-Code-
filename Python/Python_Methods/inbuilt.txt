@@ -6,3 +6,9 @@ Python has a set of built-in methods that you can use on strings.
 
 Time Complexity: O(n) — because it scans the entire string.
 Space Complexity: O(n) — creates a new string.
+
+2.casefold()
+            Definition:=> Converts a string to lowercase in a more aggressive way than lower(), suitable for case-insensitive comparisons, including Unicode characters.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
