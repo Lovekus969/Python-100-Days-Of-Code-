@@ -39,3 +39,10 @@ Space Complexity: O(n) — creates a new bytes object
 
 Time Complexity: O(k) — k = length of suffix
 Space Complexity: O(1)
+
+7. expandtabs(tabsize=8)
+
+            Definition:=>> Returns a new string where all tab characters (\t) are replaced by spaces. Default tab size is 8, but can be customized.
+
+Time Complexity: O(n) — scans entire string
+Space Complexity: O(n) — creates new string
