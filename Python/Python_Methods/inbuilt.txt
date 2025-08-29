@@ -32,3 +32,10 @@ Space Complexity: O(1)
 
 Time Complexity: O(n) — must process each character
 Space Complexity: O(n) — creates a new bytes object
+
+6. endswith(suffix, start=0, end=len(string))
+
+            Definition:=>> Returns True if the string ends with the specified suffix, otherwise False. Can check a substring using start and end.
+
+Time Complexity: O(k) — k = length of suffix
+Space Complexity: O(1)
