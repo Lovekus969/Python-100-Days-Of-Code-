@@ -6,3 +6,9 @@ Time & Space Complexity: =>>
 
         Time Complexity: O(k), where k is the length of the slice (because Python iterates through the required characters).
         Space Complexity: O(k), since a new substring is created.
+
+Key Point: =>
+                Python’s immutability → slicing always creates a new string, never modifies the original.
+                Negative indexing support → allows slicing relative to the end.
+                Step parameter → enables advanced operations like reversing ([::-1]) or sampling ([::2]).
+                Boundary safety → slicing handles out-of-range indices gracefully (no IndexError).
