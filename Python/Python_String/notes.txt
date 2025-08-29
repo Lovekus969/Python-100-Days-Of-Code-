@@ -4,3 +4,6 @@ Python Strings :=>
           'hello' is the same as "hello".
 
 You can display a string literal with the print() function:
+
+
+In Python, strings are immutable, but you can create modified versions of them using built-in string methods.
