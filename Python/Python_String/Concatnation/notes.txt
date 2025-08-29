@@ -1,0 +1,1 @@
+In Python, string concatenation means joining two or more strings into one. The + operator is the simplest way to do it.
