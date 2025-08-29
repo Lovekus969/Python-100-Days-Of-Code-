@@ -1,2 +1,8 @@
 String Methods
 Python has a set of built-in methods that you can use on strings.
+
+1. capitalize()
+      Definition :=>> Converts the first character of the string to uppercase and the rest to lowercase. Returns a new string (strings are immutable).
+
+Time Complexity: O(n) — because it scans the entire string.
+Space Complexity: O(n) — creates a new string.
