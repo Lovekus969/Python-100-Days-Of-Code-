@@ -12,3 +12,10 @@ Space Complexity: O(n) — creates a new string.
 
 Time Complexity: O(n)
 Space Complexity: O(n)
+
+3.center(width, fillchar=' ')
+
+            Definition:=>> Returns a new string of specified width with the original string centered. Fills extra spaces with the optional fillchar (default: space).
+
+Time Complexity: O(n + width)
+Space Complexity: O(width)
