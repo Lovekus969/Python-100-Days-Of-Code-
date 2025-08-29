@@ -46,3 +46,10 @@ Space Complexity: O(1)
 
 Time Complexity: O(n) — scans entire string
 Space Complexity: O(n) — creates new string
+
+8. format(*args, **kwargs)
+
+            Definition:=>> Returns a formatted string by inserting values into placeholders {}. Supports positional and keyword arguments.
+
+Time Complexity: O(n) — scans the string once to replace placeholders
+Space Complexity: O(n) — creates a new string
