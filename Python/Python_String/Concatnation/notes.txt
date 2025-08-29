@@ -1,1 +1,6 @@
 In Python, string concatenation means joining two or more strings into one. The + operator is the simplest way to do it.
+first_name = "Kush"
+last_name = "Singh"
+
+full_name = first_name + " " + last_name
+print(full_name)   # Output: Kush Singh
