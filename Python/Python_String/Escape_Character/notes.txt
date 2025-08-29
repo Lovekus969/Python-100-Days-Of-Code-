@@ -2,3 +2,7 @@ Escape Character:
 
 An escape character in Python is a backslash (\) followed by a character, used to insert characters that are otherwise illegal or have special meaning inside a string literal.
 It allows embedding quotes, newlines, tabs, Unicode, or other control characters without breaking the syntax.
+
+Syntax: \ + character
+
+Common use cases: quotes inside strings, newline \n, tab \t, backslash \\, Unicode \uXXXX.
