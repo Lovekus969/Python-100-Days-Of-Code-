@@ -6,3 +6,5 @@ Operator := Operators are used to perform operations on variables and values.
         Always return True / False.
 3. Logical Operators
         Used with booleans.
+4. Assignment Operators
+        Assign values and perform operations.
