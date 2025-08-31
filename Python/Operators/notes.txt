@@ -4,3 +4,5 @@ Operator := Operators are used to perform operations on variables and values.
 `````    Used for basic math.
 2.Comparison Operators
         Always return True / False.
+3. Logical Operators
+        Used with booleans.
