@@ -3,3 +3,5 @@ What are Booleans?
 In Python, Booleans are a data type that represent truth values:
 
 True or false
+
+Booleans & Conditionals: =>>
