@@ -5,3 +5,15 @@ In Python, Booleans are a data type that represent truth values:
 True or false
 
 Booleans & Conditionals: =>>
+
+                                            Truthy & Falsy Values
+
+                Python decides if something is True or False when used in conditions.
+
+                                    Falsy values (considered False):
+                                    0 (zero of any number type)
+                                    "" (empty string)
+                                    [] (empty list)
+                                    {} (empty dict)
+                                    None
+                                    False itself
