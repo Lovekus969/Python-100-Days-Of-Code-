@@ -8,3 +8,8 @@ Operator := Operators are used to perform operations on variables and values.
         Used with booleans.
 4. Assignment Operators
         Assign values and perform operations.
+
+                                Left Shift (<<)
+
+                                Shifts all bits to the left by the specified number of positions.
+                                Each left shift = multiply the number by 2
