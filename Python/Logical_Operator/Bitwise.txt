@@ -1,0 +1,1 @@
+Bitwise operators often confuse people because of precedence. A good practice is to use parentheses when mixing math + bitwise, like:
