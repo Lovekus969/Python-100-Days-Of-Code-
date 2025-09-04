@@ -27,3 +27,14 @@ Logical operators
 Identity operators
 Membership operators
 Bitwise operators
+
+
+Python Membership Operators
+
+Membership operators test whether a value is present in a sequence (like string, list, tuple, set, or dictionary).
+
+🔹 Two Membership Operators:
+
+in → Returns True if the value exists in the sequence.
+
+not in → Returns True if the value does not exist in the sequence.
