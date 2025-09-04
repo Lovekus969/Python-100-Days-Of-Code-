@@ -17,3 +17,13 @@ Right Shift (>>)
 
                                 Shifts all bits to the right by the specified number of positions.
                                 Each right shift = divide the number by 2 (ignores remainder).
+
+Python divides the operators in the following groups:
+
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Identity operators
+Membership operators
+Bitwise operators
