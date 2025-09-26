@@ -1,0 +1,15 @@
+Dictionary in Python
+
+What it is:
+    
+    A built-in data structure (like dict) that stores key-value pairs.
+    
+    Internally implemented using hash tables.
+
+Features:
+
+    Keys must be hashable (immutable types like strings, numbers, tuples).
+    
+    Lookup, insertion, and deletion are O(1) on average.
+    
+    Syntax is very easy
