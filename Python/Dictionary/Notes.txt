@@ -13,3 +13,19 @@ Features:
     Lookup, insertion, and deletion are O(1) on average.
     
     Syntax is very easy
+
+Your Case: Product ID → Product Name
+
+    At Walmart, the manager wants you to store data like:
+
+                Product ID: 101 → Product Name: "Milk"
+                
+                Product ID: 102 → Product Name: "Rice"
+                
+                Product ID: 103 → Product Name: "Shampoo"
+
+        This is a key–value relationship:
+
+        Key = Product ID (unique, like barcode/ID)
+
+Value = Product Name (details of the product)
