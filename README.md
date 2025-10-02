@@ -4,7 +4,7 @@ This is my new Repo where we learn all about python and its Functions like how t
 Quick Strategy for 100 Days of Code:
     Day 1–20: Python basics (variables, loops, conditionals, functions, lists, dicts, sets).
 
- Step 1: Python Fundamentals (2–3 weeks)
+ Step 1
 
                     ✅ Variables, Data types (int, float, bool, str, list, dict, set, tuple)
                     ✅ Conditionals (if-elif-else)
