@@ -38,3 +38,14 @@ Membership operators test whether a value is present in a sequence (like string,
 in → Returns True if the value exists in the sequence.
 
 not in → Returns True if the value does not exist in the sequence.
+
+
+
+Java /C vs Python 
+| Feature         | C             | Java          | Python           |
+| --------------- | ------------- | ------------- | ---------------- |
+| Entry point     | `main()`      | `main()`      | File itself      |
+| Headers         | Required      | Imports       | Imports optional |
+| Compilation     | Yes           | Yes           | No (interpreted) |
+| Execution order | From `main()` | From `main()` | Top to bottom    |
+| Boilerplate     | High          | Medium        | Very low         |
