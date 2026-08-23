@@ -1,0 +1,1 @@
+Python is slow as comppare to c++ and java so mostly we use java in software just because it is fast 
